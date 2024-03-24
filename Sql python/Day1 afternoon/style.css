@@ -1,0 +1,44 @@
+body{
+    background-repeat: no-repeat;
+    margin: 1px;
+}
+#text{
+    text-align: center;
+    color: blueviolet;
+    font-size: 35px;
+    font-family: cursive;
+}
+.ak h2,.ak p{
+    color: chocolate;
+}
+.ak{
+    margin: 50px 20px 0px 30px;
+    background-image: url("image/download.jpeg");
+}
+.form input[type=text], .form input[type=password]{
+    width: 200px;
+    padding: 12px 20px;
+    margin: 2px;
+    border: 1px solid goldenrod;
+}
+.form button{
+    background-color: aqua;
+    width: 200px;
+    padding:14px 10
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    px ;
+    color: coral;
+    
+}
+  
